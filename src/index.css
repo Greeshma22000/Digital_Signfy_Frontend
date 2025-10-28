@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&family=Dancing+Script&family=Indie+Flower&family=Lora&family=Playfair+Display&family=Quicksand&family=Orbitron&family=Caveat&family=Zeyada&family=Great+Vibes&family=Raleway&family=Anton&family=Fira+Sans&family=Ubuntu&family=Shadows+Into+Light&family=Kalam&family=Nunito&family=Comfortaa&family=Signika&display=swap');
+
+
+.pacifico { font-family: 'Pacifico', cursive; }
+.roboto { font-family: 'Roboto', sans-serif; }
+.dancing-script { font-family: 'Dancing Script', cursive; }
+.indie-flower { font-family: 'Indie Flower', cursive; }
+.lora { font-family: 'Lora', serif; }
+.playfair-display { font-family: 'Playfair Display', serif; }
+.quicksand { font-family: 'Quicksand', sans-serif; }
+.orbitron { font-family: 'Orbitron', sans-serif; }
+.caveat { font-family: 'Caveat', cursive; }
+.zeyada { font-family: 'Zeyada', cursive; }
+.great-vibes { font-family: 'Great Vibes', cursive; }
+.raleway { font-family: 'Raleway', sans-serif; }
+.anton { font-family: 'Anton', sans-serif; }
+.fira-sans { font-family: 'Fira Sans', sans-serif; }
+.ubuntu { font-family: 'Ubuntu', sans-serif; }
+.shadows-into-light { font-family: 'Shadows Into Light', cursive; }
+.kalam { font-family: 'Kalam', cursive; }
+.nunito { font-family: 'Nunito', sans-serif; }
+.comfortaa { font-family: 'Comfortaa', cursive; }
+.signika { font-family: 'Signika', sans-serif; }
+
+
+
+body {
+  @apply bg-cover bg-center bg-no-repeat min-h-screen;
+  /* background-image: url('/background.jpg');  */
+}
